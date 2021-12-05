@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671489478997",
+    "firebase_url": "https://simple-chat-99500-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "simple-chat-99500",
+    "storage_bucket": "simple-chat-99500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671489478997:android:6a8834f88915fd95d25fdc",
+        "android_client_info": {
+          "package_name": "com.example.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671489478997-qok8dhdla7cd76j25k9ua3jvir73jcp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbchat",
+            "certificate_hash": "a5bd540352c8bc7f6af4733d7adfc909a1ea36ef"
+          }
+        },
+        {
+          "client_id": "671489478997-tpdaiafo553fnm78lucv7nc32edk6gu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMR0_XIneWOMf-71AHh3cM5Sjdy5JBuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671489478997-tpdaiafo553fnm78lucv7nc32edk6gu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
